@@ -22,7 +22,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/apache/rocketmq-clients/golang/credentials"
+	"github.com/apache/rocketmq-clients/golang/v5/credentials"
 	gomock "github.com/golang/mock/gomock"
 	"github.com/prashantv/gostub"
 )
